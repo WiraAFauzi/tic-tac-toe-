@@ -12,4 +12,4 @@ A text-based Tic Tac Toe game playable in the command line.
 
 ## How to Run
 ```bash
-python tic_tac_toe.py
+python tic-tac-toe.py
